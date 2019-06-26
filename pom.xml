@@ -38,6 +38,12 @@
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		
+		<dependency>
+			<groupId>br.com.alura.enviadorEmail</groupId>
+			<artifactId>enviadorEmail</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 
 	</dependencies>
 </project>
