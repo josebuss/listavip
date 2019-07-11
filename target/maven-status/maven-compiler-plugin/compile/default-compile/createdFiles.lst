@@ -1,0 +1,5 @@
+br\com\listavip\repository\ConvidadoRepository.class
+br\com\listavip\service\ConvidadoService.class
+br\com\listavip\controller\ConvidadoController.class
+br\com\listavip\model\Convidado.class
+br\com\listavip\ListaVip.class
